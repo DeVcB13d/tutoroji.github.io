@@ -1,21 +1,9 @@
-// [
-//     {
-//       "quote": "Far far away, behind the word mountains...",
-//       "name": "John Doe",
-//       "position": "CEO, Founder",
-//       "image": "images/person_1.jpg"
-//     },
-//     {
-//       "quote": "When she reached the first hills of the Italic Mountains...",
-//       "name": "James Woodland",
-//       "position": "Designer at Facebook",
-//       "image": "images/person_2.jpg"
-//     },
-//     {
-//       "quote": "A small river named Duden flows by their place...",
-//       "name": "Rob Smith",
-//       "position": "Product Designer at Twitter",
-//       "image": "images/person_3.jpg"
-//     }
-//   ]
+[
+    {
+      "quote": "This is an excellent and extra ordinary platform for students. I highly recommend this for all medical students. I am especially convinced with microbiology lectures, tutors are very professional and it is very easy for students to catch the concepts and understand better.Making better students with strong basics.",
+      "name": "Dr Misha Ravi",
+      "position": "Doctor",
+      "image": "images/person_1.jpg"
+    }
+  ]
   
