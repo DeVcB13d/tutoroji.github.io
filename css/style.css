@@ -1254,7 +1254,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   padding: 70px 0; }
 
 .img-wrap-2 {
-  margin-top: -120px;
+  margin-top: 10px;
   position: relative;
   z-index: 9; }
   .img-wrap-2 .dotted:before {
@@ -1696,4 +1696,47 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 .stat .label {
   font-size: 16px;
   color: #4a4a4a;
+}
+
+.scrollable-reviews {
+  max-height: 300px; /* Set the desired height */
+  overflow-y: auto;  /* Enable vertical scrolling */
+  padding: 15px;     /* Optional padding */
+  border: 1px solid #ddd; /* Optional border for visual distinction */
+}
+
+.scrollable-reviews::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollable-reviews::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+}
+
+.scrollable-reviews::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+.scrollable-content {
+  max-height: 150px; /* Adjust the height as needed */
+  overflow-y: auto;
+}
+
+/* Custom scrollbar styles for WebKit browsers (Chrome, Safari) */
+.scrollable-content::-webkit-scrollbar {
+  width: 2px; /* Width of the scrollbar */
+}
+
+.scrollable-content::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color of the scrollbar thumb */
+  border-radius: 10px; /* Rounded corners */
+}
+
+.scrollable-content::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Darker color on hover */
+}
+
+.scrollable-content::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background of the scrollbar track */
 }
