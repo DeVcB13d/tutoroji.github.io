@@ -16,6 +16,54 @@
       "name": "Nikhitha",
       "position": "Student",
       "image": "images/person_1.jpg"
-    }
+    },
+    {
+      "quote": "The tuition centre has been really helpful in all my exams. The notes has helped me a lot.",
+      "name": "Rosemary Joseph ",
+      "position": "Student",
+      "image": "images/person_1.jpg"
+    },
+    {
+      "quote": "Excellent centre  which helps the students to grab the concepts easily and helping them to build a strong foundation ",
+      "name": "Dr.Diana Louis ",
+      "position": "Doctor",
+      "image": "images/person_1.jpg"
+    },
+  {
+      "quote": "This tuition center has been integral in my first year medical education. Very grateful to the teachers for their relentless support ",
+      "name": "Priya ",
+      "position": "Student",
+      "image": "images/person_1.jpg"
+  },
+  {
+      "quote": "The classes have been very informative and the faculty was very helpful. Thank you for all your help.",
+      "name": "Eva",
+      "position": "Student ",
+      "image": "images/person_1.jpg"
+  },
+  {
+      "quote": "This tuition centre has been very helpful in my education, the concepts are explained very well and it's easy to understand and retain",
+      "name": "Anna",
+      "position": "Student",
+      "image": "images/person_1.jpg"
+  },
+  {
+      "quote": "The classes have been very helpful and informative \nThe faculty were well organised \nThere were revision class which were well planned and helpful.",
+      "name": "Anamika",
+      "position": "Student",
+      "image": "images/person_1.jpg"
+  },
+  {
+      "quote": "Classes were amazing and really helped with exams ",
+      "name": "isha",
+      "position": "student ",
+      "image": "images/person_1.jpg"
+  },
+  {
+      "quote": "You don't need to look further if you are thinking of improving your academics. The lectures and tution plan caters to the individual so it is efficient and could tackle the possible challenges you face.",
+      "name": "Aromal",
+      "position": "Doctor",
+      "image": "images/person_1.jpg"
+  }
   ]
   
