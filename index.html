@@ -445,11 +445,26 @@
                 <!-- Reviews will be injected here dynamically -->
               </div>
       
-      
-              <!-- Button to send a review -->
-              <div class="mt-4">
-                <a href="mailto:tutoroji@tutoroji.com?subject=Review Submission&body=Please provide the following details:%0D%0A%0D%0AName: [Your Name]%0D%0APosition: [Designation]%0D%0A%0D%0AReview: [Write your review here]" class="btn btn-primary">Send Your Review</a>
+
+<a href="#" class="btn btn-primary" data-toggle="modal" data-target="#reviewModal">Write Review</a>
+
+              <!-- Modal structure -->
+              <div class="modal fade" id="reviewModal" tabindex="-1" role="dialog" aria-labelledby="reviewModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="reviewModalLabel">Submit Your Review</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      <!-- Google Form iframe -->
+                      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSez5mktd9W3JuYMKvrQfkK2ocRkJaPn-NOym1Y0xBVCAm4RHQ/viewform?embedded=true" width="450" height="880" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>                    </div>
+                  </div>
+                </div>
               </div>
+
             </div>
           </div>
         </div>
