@@ -64,6 +64,13 @@
       "name": "Aromal",
       "position": "Doctor",
       "image": "images/person_1.jpg"
-  }
+  },
+  {
+    "quote": "It was a personalized learning experience. Scheduling of classes was very flexible. The teaching style was effective and helped me with better preparation for the exam.",
+    "name":"Neha Sunny",
+    "position": "Student",
+    "image": "images/person_1.jpg"
+ }
+
   ]
   
