@@ -896,9 +896,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   content: "";
   position: absolute;
   width: 150%;
-  height: 70%;
+  height: 100%;
   right: -100%;
-  top: -40px;
+  top: -30px;
   z-index: -1;
   background: rgba(19, 106, 213, 0.2); }
 
